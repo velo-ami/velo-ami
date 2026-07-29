@@ -5,7 +5,7 @@
   <img width="386" height="207" alt="image" src="https://github.com/user-attachments/assets/5b106c46-fb1f-434a-8d70-ae68eb964b46" />
 </div>
 
-- 🔭 I’m currently working on **MotoLog**
+- 🔭 I’m currently working on **a few things... 🤫**
 
 - 🌱 I’m currently learning **Python, and Git**
 
