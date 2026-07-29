@@ -1,8 +1,11 @@
-## Hi 👋 I'm Aminah Ip
+# Hi 👋 I'm Aminah Ip
 
-# 💫 About Me:
-Electronic and computer engineering at University of Kent.<br><br>🔭 I am currently working on <br>🌱 I am currently learning <br>⚡Fun fact: I love motorbikes! (I ride a GSXR-125, hopefull upgrading in the future 🤞)
+Electronic and computer engineering at University of Kent.
 
+## 💫 About Me:
+🔭 I am currently working on <br>
+🌱 I am currently learning <br>
+⚡Fun fact: I love motorbikes! (I ride a GSXR-125, hopefull upgrading in the future 🤞)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/velo.ami) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aminah-ip) 
